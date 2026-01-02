@@ -39,8 +39,8 @@ Mi enfoque actual está en el **Desarrollo Backend y Análisis de Datos**. Estas
 ### 📊 Mis Estadísticas de GitHub
 > **Nota:** Estas estadísticas se actualizan automáticamente según mi actividad en la plataforma.
 
-![Stats de Ignacio](https://github-readme-stats.vercel.app/api?username=L4sarte&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4sarte&layout=compact&theme=tokyonight)
+![Stats de Ignacio](https://github-readme-stats.vercel.app/api?username=L4sarte&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4sarte&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
