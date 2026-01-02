@@ -36,12 +36,6 @@ Mi enfoque actual está en el **Desarrollo Backend y Análisis de Datos**. Estas
 
 ---
 
-### 📊 Actividad en GitHub
-
-![Métricas de L4sarte](https://github-readme-stats.vercel.app/api?username=L4sarte&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
 ### 📫 Conectemos:
 - **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/ignacio-lasarte-718900373/)]
 - **Email:** [ignaciolasarte23@gmail.com](mailto:ignaciolasarte23@gmail.com)
