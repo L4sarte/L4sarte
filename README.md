@@ -32,7 +32,7 @@ Mi enfoque actual está en el **Desarrollo Backend y Análisis de Datos**. Estas
 | :--- | :--- |
 | **Lenguajes Core** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 | **Bases de Datos & Backend** | ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
-| **En Formación Activa** | ![Udemy](https://img.shields.io/badge/Udemy-Full%20Stack%20(95%25)-ec5252?style=flat-square&logo=udemy&logoColor=white) ![Python para Datos](https://img.shields.io/badge/Python-Data%20Science%20In%20Progress-blue?style=flat-square&logo=python) |
+| **En Formación Activa** | ![Udemy](https://img.shields.io/badge/Udemy-Full%20Stack%20(95%25)-ec5252?style=flat-square&logo=udemy&logoColor=white) ![Python](https://img.shields.io/badge/Python-Data%20Science%20In%20Progress-blue?style=flat-square&logo=python) |
 
 ---
 
