@@ -5,7 +5,6 @@
 Soy un apasionado de la tecnología con una base técnica sólida, actualmente profundizando en el ecosistema de **Python y el mundo de los datos**. Mi objetivo es combinar la lógica de programación con el análisis eficiente de información para construir soluciones inteligentes.
 
 - 🎓 **Técnico Programador** egresado de IPET 411.
-- 📊 Especializándome en **Python para Ciencia de Datos**.
 - 🛠️ Experiencia en **HTML, CSS, SQL y PHP** (Nivel Básico/Intermedio).
 - 📚 Cursando la **Licenciatura en Informática** para fortalecer mis fundamentos teóricos.
 
